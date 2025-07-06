@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="portfolio.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body id="bg">
+  <header>
+    <div id="navbar">
+      <a id="name">Rohan</a>
+      <a href="#projects" class="c1">Projects</a>
+      <a href="#contact-section" class="c1">Contact</a>
+    </div>
+  </header>
+
+  <!-- Intro Section -->
+  <div id="main-section">
+    <div id="text-section">
+      <h3 id="greeting">Hello!</h3>
+      <h2 id="me">I Am Rohan Mandal</h2>
+      <pre id="about-text">I am a web developer, my expertise is to
+create and design beautiful UI's, 
+content creation & writing and much more...</pre>
+    </div>
+    <div class="profile-image">
+      <img src="Me1.png" alt="profile pic">
+    </div>
+  </div>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2 class="section-title">✨ Featured Projects</h2>
+    <div class="projects-grid">
+      <div class="project-card">
+        <div class="project-content">
+          <h3>Weather Luxe</h3>
+          <p>Elegant live weather app with modern API integration and smooth UI.</p>
+          <a href="#" class="btn">View Project</a>
+        </div>
+      </div>
+      <div class="project-card">
+        <div class="project-content">
+          <h3>Gold To-Do</h3>
+          <p>Premium task manager with elegant UI, filters, and cloud sync.</p>
+          <a href="#" class="btn">View Project</a>
+        </div>
+      </div>
+      <div class="project-card">
+        <div class="project-content">
+          <h3>Rohan's Portfolio</h3>
+          <p>This luxurious portfolio site built with style, precision, and love.</p>
+          <a href="#" class="btn">View Project</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact-section">
+    <h2 class="section-title">📬 Contact Me</h2>
+    <div class="contact-container">
+      <form action="mailto:yourmail@example.com" method="post" enctype="text/plain">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+</body>
+</html>
