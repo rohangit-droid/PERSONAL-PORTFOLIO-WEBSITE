@@ -36,3 +36,5 @@ I used Git for version control throughout the development process. This allowed 
 Creating this portfolio from scratch using only HTML and CSS helped reinforce my understanding of fundamental web development principles. It also challenged me to be creative with design and thoughtful with layout, without relying on JavaScript or frameworks.
 
 In conclusion, this portfolio website not only demonstrates my technical skills but also reflects my dedication to building beautiful and functional websites using core web technologies. I will continue to update this site as I grow and complete more projects, and I look forward to using it as a platform to share my journey with the world.
+
+ #OUTPUT - <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2adda7e4-1eb1-4b26-8ce0-81b71e3d7cd4" />
