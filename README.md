@@ -1,5 +1,11 @@
 # PERSONAL-PORTFOLIO-WEBSITE
 
+*COMPANY*: CODETWCH IT SOLUTIONS
+*NAME*: ROHAN MANDAL
+*INTERN ID*:CT06DG39
+*DOMAIN*: FRONTEND DEVELOPMENT
+*DURATION*: 6 WEEKS
+*MENTOR*: NEELA SANTOSH
 
 This project is a fully responsive personal portfolio website designed and developed to showcase my skills, projects, and professional profile as a web developer. Built entirely using HTML and CSS, this portfolio serves as a digital resume and a visual representation of my growth and capabilities in web development.
 
